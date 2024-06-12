@@ -82,6 +82,10 @@ npm run build
 
 - 引擎案例 https://layaair.layabox.com/#/enginedemo
 
+## 来源
+GitHub: https://github.com/layabox/LayaAir.git
+Cur GitHub: https://github.com/AnewCode411/layaair.git
+
 ## 授权协议
 
 MIT
